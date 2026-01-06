@@ -206,7 +206,7 @@ For assistance with the **Smart Group Discussion Platform**, contact us:
 
 <div style="text-align: left;">
   <img src="git-images/techsagalogo.png" alt="TechSaga Logo" style="width: 120px;">
-  <p>Email: <a href="mailto:adhilogu2004@gmail.com">adhilogu2004@gmail.com</a></p>
+  <p>Email: <a href="mailto:adhilogu2004@gmail.com">balaji.ponnusamy23@gmail.com</a></p>
 </div>
 
 
